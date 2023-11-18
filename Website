@@ -7,21 +7,11 @@
   <title> Disneyland </title>
 </head>
 <body>
-  <header>
-    <nav>
-      <ul>
-        <li><a href="page1.html">Page 1</a></li>
-        <li><a href="page2.html">Page 2</a></li>
-        <li><a href="page3.html">Page 3</a></li>
-      </ul>
-    </nav>
-  </header>
-  
-<main> 
-  <h1> Disneyland </h1>
-  <p> </p>
-  <img src="disneyland.webp" alt="Disneyland Castle">
-  <a href="#page2">Jump to Page 2</a>
+  <main> 
+    <h1> Disneyland </h1>
+    <p> Welcome to the enchanting realm of Disneyland California, where dreams come to life and magic knows no bounds. Nestled in the heart of Anaheim, this iconic theme park stands as a testament to Walt Disney's visionary imagination and enduring legacy. Since its grand opening on July 17, 1955, Disneyland has captivated millions of visitors with its timeless charm, whimsical attractions, and a palpable sense of wonder that transcends generations. As you step through the gates, you enter a realm where fairy tales unfold, beloved characters come to life, and the spirit of imagination reigns supreme. Disneyland California is not just a destination; it's a journey into the extraordinary, where joy, laughter, and adventure intertwine to create memories that last a lifetime. Join us as we embark on a magical exploration of this beloved theme park, where the magic never fades, and every corner is infused with the spirit of Walt Disney's magical world.</p>
+    <img src="disneyland.webp" alt="Disneyland Castle">
+    <a href="#page2">Jump to Page 2</a>
 </main>
 </body>
 </html>
