@@ -15,3 +15,27 @@
 </main>
 </body>
 </html>
+body {
+  background-color: #f4f4f4;
+  color; #333
+  font-family: Arial, sans-serif;
+}
+header {
+  background-color: #333;
+  color: #fff;
+}
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+nav li { 
+  display: inline;
+  margin-right: 20px;
+}
+main {
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+  
